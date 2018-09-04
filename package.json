@@ -1,0 +1,28 @@
+{
+  "name": "feskel",
+  "version": "0.0.2",
+  "description": "My Bare-bones Skeleton for quickly setting up a frontend ES6 project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "serve": "http-server ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdriley/feskel.git"
+  },
+  "author": "tdriley@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdriley/feskel/issues"
+  },
+  "homepage": "https://github.com/tdriley/feskel#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "http-server": "^0.11.1",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
