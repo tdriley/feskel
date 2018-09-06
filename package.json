@@ -1,7 +1,7 @@
 {
   "name": "feskel",
   "version": "0.0.2",
-  "description": "My Bare-bones Skeleton for quickly setting up a frontend ES6 project.",
+  "description": "My Bare-bones Skeleton for quickly setting up a frontend/browser project written with ES6 modules.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",

@@ -1,5 +1,5 @@
 # feskel
-My Bare-bones Skeleton for quickly setting up a frontend ES6 project.
+My Bare-bones Skeleton for quickly setting up a frontend/browser project written with ES6 modules..
 ## Getting started
 To download and install:
 ```
